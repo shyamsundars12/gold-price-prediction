@@ -23,19 +23,6 @@ This project demonstrates how **machine learning** can be used to predict gold p
 ✔️ Model and scaler are saved and reused (`.pkl` files)
 
 ---
-
-## 🛠️ Project Structure
-
-gold-price-prediction/
-├── app.py # Main Streamlit app
-├── scaler.pkl # Saved StandardScaler
-├── regressor.pkl # Trained regression model
-├── train_model.py # Script to train the model
-├── gold_vs_usdinr.csv # Input data for training
-└── requirements.txt # Python dependencies
----
-## ▶️ How to Run Locally
-
 ### 1️⃣ Clone the Repo
 
 git clone https://github.com/shyamsundars12/gold-price-prediction.git
